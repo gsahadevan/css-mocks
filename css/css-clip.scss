@@ -10,19 +10,31 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.container {
-    width: 30%;
-    background: white;
-    border-radius: 10px;
-
     .inner {
         background: #00b6ff;
         padding: 1em;
         border-radius: 10px;
-        width: 100%;
-        //clip-path: circle(50% at 0% 0%);
-        clip-path: circle(10% at 0% 0%);
-        transition: clip-path .5s ease-in-out; 
+        width: 250px;
+        clip-path: circle(10% at 90% 20%);
+        transition: all .5s ease-in-out; 
+        cursor: pointer;
+
+        &:hover {
+            clip-path: circle(75%);
+        }
+
+        span {
+            float: right;
+            color: white;
+            font-weight: bold;
+            transition: color .5s;
+            position: relative;
+            margin-right: 4%; 
+        }
+
+        &:hover span {
+            color: rgba(255, 255, 255, 0);
+        }
 
         h1 {
             color: white;
@@ -34,8 +46,3 @@ body {
             font-size: 0.8em;
         }
     }
-
-    &:hover .inner {
-        clip-path: circle(75%);
-    }
-}
