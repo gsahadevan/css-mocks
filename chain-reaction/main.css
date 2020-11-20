@@ -1,0 +1,9 @@
+.col-1 {
+    border: 1px solid black;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.row {
+    height: 100px;
+}
