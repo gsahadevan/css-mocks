@@ -1,0 +1,90 @@
+{
+    "name": "Gauthaman Sahadevan",
+    "designation": "Senior Java Developer | Full Stack Developer",
+    "profile_image": "",
+    "mail": "Munich Germany",
+    "mobile": "(+49) 1512 *******",
+    "email": "gsahadevan@*******.com",
+    "skype": "gsahadevan",
+    "website": "https://gsahadevan.github.io/",
+    "aboutme": "9+ years of experience in architecture design, development, testing, implementation and maintenance of web applications, web services and APIs using Java and associated technologies. Analytical thinker and strong problem solver. Individual contributor for multiple on-shore delivery projects. Agile, Scrum and Test-driven projects. Extensive knowledge of Retail, Banking and Litigation domains.",
+    "social": [
+        {"text": "LinkedIn", "icon": "fab fa-linkedin", "link": "https://www.linkedin.com/in/gsahadevan/"},
+        {"text": "GitHub", "icon": "fab fa-github", "link": "https://github.com/gsahadevan"},
+        {
+            "text": "Stack Overflow",
+            "icon": "fab fa-stack-overflow",
+            "link": "https://stackoverflow.com/users/6407851/gauthaman-sahadevan"
+        },
+        {"text": "HackerRank", "icon": "fab fa-hackerrank", "link": "https://www.hackerrank.com/gsahadevan?hr_r=1"},
+        {"text": "HackerEarth", "icon": "fa fa-h-square", "link": "https://www.hackerearth.com/@gsahadevan"},
+        {"text": "Medium", "icon": "fa fa-medium", "link": "https://medium.com/@gsahadevan"}
+    ],
+    "skills": [
+        {"text": "Languages and Technologies", "contents": "Java, Python, Spring, Hibernate, RESTful, Shell, Batch"},
+        {"text": "Web Technologies", "contents": "Angular, JavaScript, jQuery, JSON, HTML5, CSS3, Bootstrap, NodeJS"},
+        {"text": "Database and Servers", "contents": "Cassandra, MongoDB, Oracle, MySQL, Tomcat"},
+        {
+            "text": "Tools and Libraries",
+            "contents": "Kafka, GIT, JIRA, Confluence, Jenkins, Maven, JUnit, Mockito, NPM"
+        },
+        {"text": "Big Data", "contents": "Hadoop, HDFS, Hive, Spark"}
+    ],
+    "education": [
+        {
+            "course": "Masters of Computer Applications",
+            "duration": "Jul 2006 – Apr 2009",
+            "univ": "PSG College of Technology, Coimbatore (India)",
+            "cgpa": "8.02 / 10"
+        },
+        {
+            "course": "Bachelor of Science, Physics",
+            "duration": "Jun 2003 – Apr 2006",
+            "univ": "Government Arts College, Coimbatore (India)",
+            "cgpa": "77.72 / 100"
+        }
+    ],
+    "awards": [
+        {
+            "text": "SPIRE LUMINARY AWARD",
+            "contents": "Awarded for successful implementation of Data Centre Modernization"
+        },
+        {"text": "Cognizant BFS Applause", "contents": "STAR of the Quarter for Q2 2012 and Q4 2014"},
+        {"text": "Cognizant BFS Applause", "contents": "KUDOS for Q3 2011 and Q2 2013"}
+    ],
+    "technicalproficiency": [
+        {"text": "Strong skills in algorithms, data structures, OOPS and design patterns"},
+        {"text": "Expertise in re-designing applications to handle enhancements, troubleshooting and bug fixes"},
+        {"text": "Skilled in performance fine-tuning, code reviews, code optimization and code refactoring"},
+        {"text": "Sound knowledge in Java, RESTful web services, Spring MVC and Hibernate"},
+        {
+            "text": "Proficient in database design, writing efficient SQL queries, optimized stored procedures and functions"
+        }
+    ],
+    "experience": [
+        {
+            "role": "Senior Associate",
+            "duration": "Jul 2016 – Dec 2018",
+            "org": "Cognizant Technology Solutions, Bangalore (India)",
+            "desc": "Java Backend Developer for world’s largest retailer. Principal developer for new work-flow to manage rules and matching engine. Built web scrapers to retrieve key attributes from competitor sites for product matching. Created hive scripts and spark jobs to feed analytical dashboards. Individual contributor responsible for end-to-end SDLC."
+        },
+        {
+            "role": "Associate",
+            "duration": "Jul 2013 – Jul 2016",
+            "org": "Cognizant Technology Solutions, Bangalore (India)",
+            "desc": "Provided onshore technical consultation to large Indian multinational bank. Migrated legacy banking product to web based application. Developed client side installation programs, automated application maintenance and alerts. Created analytical reports for recon, cross fraud, anti-money laundering teams."
+        },
+        {
+            "role": "Programmer Analyst",
+            "duration": "Dec 2009 – Jul 2013",
+            "org": "Cognizant Technology Solutions, Kochi (India)",
+            "desc": "Java Engineer – provided offshore consultation for a large US legal content publishing company. Coding, unit testing, documentation and deployments, POC for bug fixes. Troubleshooting in case of application failures and provided root cause analysis."
+        },
+        {
+            "role": "Intern",
+            "duration": "Dec 2008 – May 2009",
+            "org": "Kalycito Information Technology and Services, Coimbatore (India)",
+            "desc": "Intern developer - worked closely with R&D team to customize IP04 to work with Asterisk. Integrated Asterisk with LDAP and worked on performance testing and reporting."
+        }
+    ]
+}

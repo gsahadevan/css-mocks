@@ -76,6 +76,42 @@
       border: 3px solid #fff;
       margin-top: -60px;
     }
+
+    .online {
+      background-color: green;
+    }
+
+    .away {
+      background-color: yellow;
+    }
+
+    .offline {
+      background-color: darkgray;
+    }
+
+    .profile-status {
+      height: 10px;
+      width: 10px;
+      position: absolute;
+      right: 0;
+      bottom: -6px;
+      border: 1px solid white;
+      border-radius: 100%;
+    }
+
+    .user-profile-image {
+      object-fit: cover;
+      height: 36px;
+      width: 36px;
+    }
+
+    .rounded {
+      border-radius: 4px;
+    }
+
+    .circle {
+      border-radius: 100%;
+    }
   </style>
   <title>Hello, world!</title>
 </head>
@@ -126,6 +162,29 @@
       <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
       <a class="btn btn-primary btn-lg" href="#" role="button"
         style="background-color: #fff !important; color: #19305a; font-weight: 600;">Learn more</a>
+    </div>
+
+    <div class="mt-5">
+      <span class="mr-2" style="height: 36px; width: 36px; position: relative;">
+        <img id="profile-image-small" class="user-profile-image circle"
+          src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80"
+          alt="Profile Image" title="profile-image" />
+        <i class="profile-status online"></i>
+      </span>
+
+      <span class="mr-2" style="height: 36px; width: 36px; position: relative;">
+        <img id="profile-image-small" class="user-profile-image circle"
+          src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80"
+          alt="Profile Image" title="profile-image" />
+        <i class="profile-status away"></i>
+      </span>
+
+      <span class="mr-2" style="height: 36px; width: 36px; position: relative;">
+        <img id="profile-image-small" class="user-profile-image circle"
+          src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80"
+          alt="Profile Image" title="profile-image" />
+        <i class="profile-status offline"></i>
+      </span>
     </div>
 
     <div class="mt-5">
@@ -310,6 +369,8 @@
         </div>
       </div>
     </div>
+
+
   </div>
 
   <!-- Optional JavaScript; choose one of the two! -->
