@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.main-content {
+  height: 50vh;
+  background-color: darkslategray;
+  color: white;
+}
+
+header {
+  background-color: teal;
+  color: white;
+  padding: 0.5rem 0 0.5rem 0;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+header li {
+  display: inline;
+  padding-right: 1rem;
+}
+
+header .branding {
+  float: left;
+}
+
+header nav {
+  float: right;
+}
+
+.nav-links {
+  list-style: none;
+}
+/*# sourceMappingURL=style.css.map */
