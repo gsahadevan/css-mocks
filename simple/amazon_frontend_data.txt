@@ -1,0 +1,456 @@
+Amazon Launchpad
+    Body
+    Food
+    Electronics
+    Home
+    Collections
+    Toys & Baby
+    Fashion Accessories
+
+Apps for Android
+    Books & Comics
+    Business
+    Communication
+    Customization
+    Education
+    Finance
+    Food & Drink
+    Games
+    Health & Fitness
+    Kids
+    Lifestyle
+    Local
+    Magazines
+    Medical
+    Movies & TV
+    Music & Audio
+    News
+    Novelty
+    Photo & Video
+    Productivity
+    Reference
+    Shopping
+    Social
+    Sports
+    Transportation
+    Travel
+    Utilities
+    Weather
+
+Baby Products
+    Activity & Entertainment
+    Baby Care
+    Baby Carriers
+    Car Seats & Accessories
+    Nappy Changing
+    Nursery
+    Nursing & Feeding
+    Potty Training & Step Stools
+    Safety Equipment
+    Soothers & Teethers
+    Strollers & Prams
+    Maternity
+    Baby & Toddler Toys
+    Baby Shoes
+
+Bags, Wallets and Luggage
+    Backpacks
+    Bags & Briefcases
+    Luggage
+    Shopping Bags & Baskets
+    Travel Accessories
+
+Beauty
+    Bath & Shower
+    Fragrance
+    Hair Care & Styling
+    Make-up & Nails
+    Skin Care
+
+Books
+    Arts, Film & Photography
+    Biographies, Diaries & True Accounts
+    Business & Economics
+    Children's & Young Adult
+    Computing, Internet & Digital Media
+    Crafts, Home & Lifestyle
+    Health, Family & Personal Development
+    Humour
+    Language, Linguistics & Writing
+    Literature & Fiction
+    Politics
+    Reference
+    Religion
+    Sciences, Technology & Medicine
+    Society & Social Sciences
+    Sports
+    Travel
+    Action & Adventure
+    Comics & Mangas
+    Crime, Thriller & Mystery
+    Fantasy, Horror & Science Fiction
+    Historical Fiction
+    Romance
+    Maps & Atlases
+    Exam Preparation
+    History
+    Law
+    Textbooks & Study Guides
+
+Car & Motorbike
+    Car & Motorbike Care
+    Car & Vehicle Electronics
+    Car Accessories
+    Car Parts
+    Car Tyres & Rims
+    Gifts & Merchandise
+    Motorbikes, Accessories & Parts
+    Navigation Devices
+    Oils & Fluids
+    Paintwork
+    Tools & Equipment
+    Transporting & Storage
+
+Clothing & Accessories
+    Women
+    Boys
+    Girls
+    Men
+
+Computers & Accessories
+    Accessories
+    Components
+    Desktops
+    External Devices & Data Storage
+    Keyboards, Mice & Input Devices
+    Laptops
+    Monitors
+    Networking Devices
+    PC Speakers
+    Scanners
+    Tablets
+    Audio & Video Accessories
+    Printers, Inks & Accessories
+
+Electronics
+    Accessories
+    Cameras & Photography
+    Car & Vehicle Electronics
+    GPS & Accessories
+    Hi-Fi & Home Audio
+    Home Theatre, TV & Video
+    Portable Media Players
+    Telephones & Accessories
+    Warranties
+    Computers & Accessories
+    Mobiles & Tablets
+    Wearable Technology
+    Headphones
+
+Garden & Outdoors
+    Barbecue & Outdoor Dining
+    Gardening
+    Mowers & Outdoor Power Tools
+    Outdoor Décor
+    Garden & Outdoor Furniture
+    Backyard Birding Supplies
+    Beekeeping Equipment
+    Pest Control
+    Plants, Seeds & Bulbs
+    Solar & Wind Power
+
+Gift Cards
+    Gift Cards & Certificates
+    Birthday
+    Wedding & Engagement
+    Congratulations
+    Housewarming
+    Anniversary
+    Baby & Expecting
+    Thank You & Appreciation
+    Friendship
+    Love
+    Get Well
+    All Occasions
+
+Grocery & Gourmet Foods
+    Canned & Jarred Food
+    Cereal & Muesli
+    Coffee, Tea & Beverages
+    Cooking & Baking Supplies
+    Dried Fruits, Nuts & Seeds
+    Hampers & Gourmet Gifts
+    Jams, Honey & Spreads
+    Meat, Poultry & Seafood
+    Pickles
+    Ready To Eat & Cook
+    Pasta & Noodles
+    Snack Foods
+    Sweets, Chocolate & Gum
+
+Health & Personal Care
+    Diet & Nutrition
+    Health Care
+    Household Supplies
+    Personal Care
+    Bath & Shower
+    Hair Care & Styling
+    Skin Care
+    Home Medical Supplies & Equipment
+    Personal Care & Health Appliances
+
+Home & Kitchen
+    Coffee, Tea & Espresso
+    Cookware & Bakeware
+    Furniture
+    Home & Décor
+    Home Storage & Organization
+    Indoor Lighting
+    Kitchen Storage & Containers
+    Kitchen Tools
+    Large Appliances
+    Small Kitchen Appliances
+    Tableware
+    Home Furnishing
+    Water Purifiers & Accessories
+    Vacuum, Cleaning & Ironing
+    Heating & Cooling
+    Sewing & Embroidery Machines
+    Home Improvement
+    Craft Materials
+    Fresh Flowers
+
+Home Improvement
+    Cleaning Supplies
+    Electrical
+    Hardware
+    Kitchen & Bath Fixtures
+    Power & Hand Tools
+    Safety & Security
+    Painting Supplies, Tools & Wall Treatments
+
+Industrial & Scientific
+    Commercial Door Products
+    Power Transmission Products
+    Professional Medical Supplies
+    Test, Measure & Inspect
+    Lab & Scientific Products
+    Cutting Tools
+    Filtration
+    Abrasive & Finishing Products
+    Professional Dental Supplies
+    Janitorial & Sanitation Supplies
+    Fasteners
+    Material Handling Products
+    Occupational Health & Safety Products
+    Food Service Equipment & Supplies
+    Tapes, Adhesives & Sealers
+    Industrial Hardware
+    Hydraulics, Pneumatics & Plumbing
+    Power & Hand Tools
+    Industrial Electrical
+    Robotics
+    Additive Manufacturing Products
+    Packaging & Shipping Supplies
+
+Jewellery
+    Women
+    Men
+    Boys
+    Girls
+
+Kindle Store
+    Kindle eBooks
+
+Movies & TV Shows
+    Animation
+    Comedy
+    Crime & Thriller
+    Documentary
+    Drama
+    Exercise & Fitness
+    Fantasy
+    Horror
+    Military & War
+    Music Videos & Concerts
+    Musical
+    Romance
+    Science Fiction
+    Special Interest
+    Sports
+    Western
+    Children's
+    Action & Adventure
+
+Music
+    Alternative & Indie
+    Bhangra
+    Blues
+    Comedy & Spoken Word
+    Country
+    Dance & Electronic
+    Easy Listening
+    Folk & Songwriter
+    Ghazals
+    Hard Rock & Metal
+    Holiday & Religious
+    Indi Pop
+    Indian Classical
+    Jazz
+    Kids' Music & Radio Plays
+    Lounge & Fusion
+    New Age
+    Pop
+    R&B & Soul
+    Rap & Hip-Hop
+    Reggae
+    Rock
+    Sound Effects & Nature
+    Soundtracks & Musicals
+    Special Interest
+    Sufi & Qawwali
+    Western Classical
+    Film Songs
+    Devotional & Spiritual
+    Gospel
+    World Music
+
+Musical Instruments
+    Bass Guitars & Gear
+    DJ & VJ Equipment
+    Drums & Percussion
+    Guitars & Gear
+    Karaoke Equipment
+    Microphones
+    PA & Stage
+    Piano & Keyboard
+    Recording & Computer
+    String Instruments
+    Synthesizer & Sampler
+    Wind Instruments
+
+Office Products
+    Calendars, Planners & Personal Organisers
+    Office Electronics
+    Office Paper Products
+    Office Supplies
+    Stationery
+    Calculators
+
+Pet Supplies
+    Fish & Aquatics
+    Birds
+    Cats
+    Dogs
+    Small Animals
+
+Shoes & Handbags
+    Shoe Care & Accessories
+    Handbags, Purses & Clutches
+    Shoes
+
+Software
+    Accounting & Finance
+    Antivirus & Security
+    Business & Office
+    Children's Software
+    Education & Reference
+    Graphics & Design
+    Home & Hobbies
+    Language & Travel
+    Networking & Servers
+    Operating Systems
+    Photography
+    Programming & Web Development
+    System Utility Software
+
+Sports, Fitness & Outdoors
+    Camping & Hiking
+    Archery
+    Badminton
+    Baseball
+    Basketball
+    Billiards
+    Boxing
+    Ripsticking
+    Climbing
+    Cricket
+    Cycling
+    Darts & Dartboards
+    Disc Sports
+    Sports Gadgets
+    Equestrian Sports
+    Exercise & Fitness
+    Fan Shop
+    Field Hockey
+    Fishing
+    Football
+    Footwear
+    Golf
+    Gymnastics
+    Martial Arts
+    Rugby
+    Running
+    Snooker
+    Sports Clothing
+    Squash
+    Table Tennis
+    Team Handball
+    Tennis
+    Track & Field
+    Volleyball
+    Water Sports
+    Accessories
+    Skates, Skateboards & Scooters
+
+Toys & Games
+    Arts & Crafts
+    Baby & Toddler Toys
+    Bikes, Trikes & Ride-Ons
+    Building & Construction Toys
+    Coin & Stamp Collecting
+    Collectible Trading Cards & Accessories
+    Cosmetics & Jewellery
+    Die-Cast & Toy Vehicles
+    Dolls & Accessories
+    Dressing Up & Costumes
+    Electronic Toys
+    Games
+    Learning & Education
+    Model Building Kits
+    Model Trains & Railway Sets
+    Musical Toy Instruments
+    Novelty & Gag Toys
+    Pretend Play
+    Puppets & Puppet Theatres
+    Puzzles
+    Radio & Remote Control
+    Real-Food Appliances
+    School Supplies
+    Sport & Outdoor
+    Toy Figures & Playsets
+    Soft Toys
+
+Video Games
+    PC Games
+    Microconsoles & Handhelds
+    Nintendo 3DS
+    Nintendo DS
+    PlayStation 2
+    PlayStation 3
+    PSP
+    Wii
+    Xbox 360
+    Wii U
+    PlayStation 4
+    PlayStation Vita
+    Xbox One
+    Nintendo Switch
+    Online Game Services
+
+Watches
+    Accessories
+    Men
+    Women
+    Boys
+    Girls

@@ -1,0 +1,577 @@
+[{
+    "question": "Depreciation will be borne by ...",
+    "options": [
+        "A creditors.",
+        "B owners.",
+        "C employees.",
+        "D customers."
+    ],
+    "solution": ["B"]
+}, {
+    "question": "Depreciation causes ...",
+    "options": [
+        "A cashoutflow.",
+        "B cashinflow.",
+        "C equityreduction.",
+        "D equityincrease."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "Uniform annual depreciation is called ...",
+    "options": [
+        "A degressive depreciation.",
+        "B linear depreciation.",
+        "C bipolar depreciation.",
+        "D suggestive depreciation."
+    ],
+    "solution": ["B"]
+}, {
+    "question": "Important:<br>• The following questions use a value added tax (VAT) rate of 10 %.<br>• Social security contributions amount to 20 % of gross salary while payroll tax and church tax together account for a proportion of 17,25 %.<br>• The following questions represent the financial year 2013 for “JUPITER” company. In order not to obtain an oversized extent only business transactions related to a single month (March) are considered.<br>• Inventory valuation is carried out using periodical inventory method.<br>Which of the following statement concerning VAT is correct?",
+    "options": [
+        "A A businessman’s private withdrawal out of his company always is a business transaction which is subject to VAT.",
+        "B If within annual financial statements the balance of account 1400: Prepaid VAT is higher than the balance of account 3800: VAT, the company has receivables from tax authority.",
+        "C When selling fixed assets below residual book value this never is subject to VAT.",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["B"]
+}, {
+    "question": "For the purpose of producing tables JUPITER buys wood glue for the price of 143 EUR (gross) on credit. Which of the following postings represent the purchase correctly?",
+    "options": [
+        "A 1030: Supplies, 130 to 3300: Trade accounts payable, 143 1400: Prepaid VAT, 13",
+        "B 1020: Consumables, 130 1400: Prepaid VAT, 13 to 3300: Trade accounts payable, 143",
+        "C 5020: Expenses for consumables to 1020: Consumables, 130",
+        "D 3300: Trade accounts payable to 1600: Cash, 143"
+    ],
+    "solution": ["B"]
+}, {
+    "question": "JUPITER is selling a production machinery for it’s residual value of 2.750 EUR (gross ) to a fellow entrepreneur. Payment is conducted by bank transfer. Which of the following postings represents the business transaction correctly?",
+    "options": [
+        "A 1800: Bank, 2.750 an 0440: Machinery, 2.500 3800: VAT, 250",
+        "B 1800: Bank, 2.750 to 0440: Machinery, 2.750",
+        "C 1800: Bank, 3.025 to 0440: Machinery, 2.750 3800: VAT, 275",
+        "D 1800: Bank, 3.025 to 0440: Machinery, 2.500 3800: VAT, 275 4900: Income from disposal of fixed (noncurrent) & current assets, 250"
+    ],
+    "solution": ["A"]
+}, {
+    "question": "JUPITER is selling a warehouse with a residual value of 60.000 EUR for the price of 55.000 EUR (gross) on credit. Which of the following postings represents the business transaction correctly?",
+    "options": [
+        "A 1300: Other receivables, 60.000 to 0240: Buildings, 55.000 3800: VAT, 5.000",
+        "B 1300: Other receivables, 55.000 6900: Losses from disposal of fixed (noncurrent) & current assets, 10.000 to 0240: Buildings, 60.000 3800: VAT, 5.000",
+        "C 1300: Other receivables, 55.000 to 0240: Buildings, 50.000 3800: VAT, 5.000",
+        "D 1200: Trade accounts receivables, 55.000 3800: VAT, 5.000 to 0240: Buildings, 60.000"
+    ],
+    "solution": ["B"]
+}, {
+    "question": "When producing a table JUPITER is consuming wood worth 250 EUR. Which of the following postings represents the business transaction correctly",
+    "options": [
+        "A 5050: Expenses for goods for resale, 275 to 3800: VAT, 25 1010: Raw materials, 250",
+        "B 5010: Expenses for raw materials to 1110: Finished goods, 250",
+        "C 1010: Raw materials to 1110: Finished goods, 250",
+        "D 5010: Expenses for raw materials to 1010: Raw materials, 250"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "JUPITER is selling eight wooden chairs to a customer for a price of 200 EUR (net) each. The customer is paying cash. Which of the following postings represents the business transaction correctly?",
+    "options": [
+        "A 1600: Cash, 1.760 to 1110: Finished goods, 1.600 3800: VAT, 160",
+        "B 1600: Cash, 1.760 to 4010: Revenue (Goods for Resale), 1.600 3800: VAT, 160",
+        "C 1600: Cash, 1.760 to 4000: Revenue (FG), 1.600 3800: VAT, 160",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "JUPITER is selling wardrobes to a customer for the price of 20.000 EUR (net). Since the customer is paying cash, a discount of 5 % is granted. Which of the following postings represents the business transaction correctly?",
+    "options": [
+        "A 1600: Cash, 20.900 to 4000: Revenue (FG), 19.000 3800: VAT, 1.900",
+        "B 1600: Cash, 22.000 to 4000: Revenue (FG), 20.000 3800: VAT, 2.000",
+        "C 1600: Cash, 20.900 6300: Other operating expenses, 1.100 to 4000: Revenue (FG), 20.000 3800: VAT, 2.000",
+        "D 1600: Cash, 20.900 4001: Customer cash discount (FP), 1.100 to 4000: Revenue (FG), 20.000 3800: VAT, 2.000"
+    ],
+    "solution": ["A"]
+}, {
+    "question": "On May 5th 2012 JUPITER has sold a company car at it’s residual value of EUR 25,000 to a fellow entrepreneur on credit. In case of payment within one week an early payment discount of 2 % is granted. The fellow entrepreneur pays on May 7th 2012 via bank transfer. Which of the following postings represents the business transaction correctly?",
+    "options": [
+        "A 1300: Other receivables, 27.500 to 0520: Vehicle Fleet, 25.000 3800: VAT, 2.500",
+        "B 1800: Bank, 26.950 3800: VAT, 50 6300: Other operating expenses, 500 to 1300: Other receivables, 27.500",
+        "C 1800: Bank to 1300: Other receivables, 26.950",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["B"]
+}, {
+    "question": "A customer who purchased wardrobes for the price of 2.250 EUR (net) via bank transfer wants to return them to JUPITER company due to quality defects. JUPITER reimburses the full purchase price to the customer by bank transfer. Which of the following postings represents the business transaction correctly?",
+    "options": [
+        "A 6300: Other operating expenses, 2.475 to 1800: Bank, 2.475",
+        "B 1110: Finished Goods, 2.250 3800: VAT, 225 to 1800: Bank, 2.475",
+        "C 4000: Revenue (FG), 2.250 3800: VAT, 225 to 1800: Bank, 2.475",
+        "D There is no posting."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "The interest rate (6 % p.a.) for a loan of 1.000.000 EUR, is payable quarterly in advance. The rate for the period of Dez.1st until Feb. 28th of 15.000 EUR was transferred on Dez.1st. Which is the correct posting for Dez.31st 2013?",
+    "options": [
+        "A 3900: Deferred revenue to 7300: Interest expenses, 15.000",
+        "B 3900: Deferred revenue to 7300: Interest expenses, 10.000",
+        "C 1900: Deferred charges to 7300: Interest expenses, 15.000",
+        "D 1900: Deferred charges to 7300: Interest expenses, 10.000"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "When looking at account 9999: Income statement account within the annual financial statements there is a balance of 25.000 EUR on credit side. Whereas on debit side of account 2100: Private account there is a balance 10.000 EUR. The opening balance of account 2900: Capital subscribed amounts to 250.000 EUR. What’s the correct amount of equity in the corresponding closing balance for the current financial year ?",
+    "options": [
+        "A 265.000 EUR",
+        "B 235.000 EUR",
+        "C 275.000 EUR",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["B"]
+}, {
+    "question": "Which of the following statements about postings of costs of goods sold is correct?",
+    "options": [
+        "A When using inventory dependent method costs of goods sold will be posted during the year.",
+        "B When using inventory independent method any sale has a reducing effect on the goods for resale account.",
+        "C When using gross method the balance of the Sales (Goods for Resale) account is directly entered into the Income statement account as expense.",
+        "D When using net method costs of goods sold will be directly entered into the closing balance account."
+    ],
+    "solution": ["B"]
+}, {
+    "question": "Which of the following statements regarding capital subscribed account is correct?",
+    "options": [
+        "A If a company makes a profit, the balance of the income statement account is on debit side and will be closed on the credit side of the capital subscribed account.",
+        "B The opening balance of the capital subscribed account is on debit side.",
+        "C The capital subscribed account is closed to the income statement account.",
+        "D Equity can‘t be reduced, if the company makes a profit."
+    ],
+    "solution": ["A"]
+}, {
+    "question": "A liability insurance is completed for the period from February 2013 until end of January 2014. There is a monthly insurance premium of 100 EUR. The entire premium for the whole term has to be paid by JUPITER in advance in January 2013. Which of the following postings represents the business transaction of prepaid expenses on Dez 31st at the end of the financial year 2013 correctly ?",
+    "options": [
+        "A 1900: Deferred charges and prepaid expenses to 6400: Insurances, 100",
+        "B 6400: Insurances to 3900: Deferred revenue, 100",
+        "C 6400: Insurances to 1800: Bank, 100",
+        "D There is no posting at the end of the financial year."
+    ],
+    "solution": ["A"]
+}, {
+    "question": "At accounting date of the financial year 2012 due to a patent infringement suit JUPITER has to take into account, that it has to pay a compensation of 50,000 EUR in the following period. What is the correct posting at the end of financial year 2012 from the perspective of JUPITER?",
+    "options": [
+        "A 1800: Bank to 3000: Provisions, 50.000",
+        "B 3500: Other liabilities to 2920: Capital reserves, 50.000",
+        "C 6300: Other operating expenses to 3000: Provisions, 50.000",
+        "D 1800: Bank to 2920: Capital reserves, 50.000"
+    ],
+    "solution": ["C"]
+}, {
+    "question": "What is not covered in inventory accounts ?",
+    "options": [
+        "A Inventory at the beginning of period.",
+        "B Changes in inventory during the period",
+        "C Expenses/ income for the period.",
+        "D Inventory at the end of period."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "What is posted on income statement accounts ?",
+    "options": [
+        "A Income statement transactions only.",
+        "B Income only.",
+        "C All transactions, changing the company's equity.",
+        "D None of the answers mentioned above is correct."
+    ],
+    "solution": ["A"]
+}, {
+    "question": "Which of the following statements regarding day book and general ledger is correct?",
+    "options": [
+        "A The day book structures the postings of all business transactions by objective criteria.",
+        "B The day book is also referred to as Journal.",
+        "C The outline level of the day book is below the general ledger’s outline level .",
+        "D None of the above mentioned statements is correct."
+    ],
+    "solution": ["B"]
+}, {
+    "question": "Due to a court order a company is paying damages via bank transfer at the amount of the provision previously formed. What effect does this business transaction have on the balance sheet ?",
+    "options": [
+        "A Profit neutral changes in total assets (balance contraction).",
+        "B Income affecting changes in total assets (balance extension).",
+        "C Income non-affecting business transaction (liabilities swap)",
+        "D Income affecting business transaction ."
+    ],
+    "solution": ["A"]
+}, {
+    "question": "A company receives a bank loan and thus extinguishes a liability from trade accounts payable. What effect does this business transaction have on the balance sheet ?",
+    "options": [
+        "A Assets swap.",
+        "B Liabilities swap",
+        "C Balance extension.",
+        "D Balance reduction."
+    ],
+    "solution": ["B"]
+}, {
+    "question": "Which of the following business transactions is not a profit neutral assets swap?",
+    "options": [
+        "A Withdrawal from bank account to top up the cash reserves.",
+        "B Purchase of a machinery for 10.000 EUR (net) via bank transfer.",
+        "C A customer pays an amount receivable by bank transfer .",
+        "D Payment of a liability from trade accounts payable via bank transfer."
+    ],
+    "solution": ["D"]
+}, {
+    "question": "Which of the following statements regarding T-accounts is correct?",
+    "options": [
+        "A A T-account is a two-page calculation, which always has an opening balance as well as additions on debit side.",
+        "B At a T-account, the closing balance always results as the sum of opening balance and additions .",
+        "C The balance of a T-account is the difference between the sum of the opening balance and additions on the one hand and reductions on the other hand.",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "At liabilities-side accounts ...",
+    "options": [
+        "A ... expenses are posted on credit side.",
+        "B ... reductions are posted on debit side.",
+        "C ... reductions are posted on credit side.",
+        "D ... the balance is closed to the income statement account."
+    ],
+    "solution": ["B"]
+}, {
+    "question": "Which of the following statements regarding formal year-end closings is correct?",
+    "options": [
+        "A All income and expense related accounts are closed directly to the capital subscribed account.",
+        "B All income and expense related accounts are closed directly to the closing balance sheet account.",
+        "C All income and expense related accounts are closed directly to the income statement account.",
+        "D All expense related accounts are closed directly to their respective income related accounts."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "At the end of financial year JUPITER has outstanding receivables form accounts receivable from trading of 165,000 EUR. From past experience it is known that only 98 % of such claims are actually paid. How to post this situation from JUPITER’s perspective?",
+    "options": [
+        "A 6920: General reserve to 1200: Trade accounts receivables, 3.300",
+        "B 6920: General reserve to 1240: Allowance for doubtful accounts, 3.300",
+        "C 6920: General reserve to 1200: Trade accounts receivables, 3.000",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "Because of hail damage a company car suffered a loss of 1.000 EUR that won’t be repaired. Which of the following postings represents the subsequent depreciation correctly?",
+    "options": [
+        "A 6220: D&A to 0520: Vehicle Fleet, 1.000",
+        "B 6300: Other operating expenses to 0520: Vehicle Fleet, 1.000",
+        "C 6230: Write-down of tangible assets to 0520: Vehicle Fleet, 1.000",
+        "D There is no accounting entry."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "During financial year, the owner of JUPITER company has done a one-time withdrawal of 5.000 EUR in cash. There has been no further transfer of cash between company and its owners in this financial year. What is the correct posting for closing the account 2120: Private withdrawals at the end of financial year?",
+    "options": [
+        "A 2120: Private withdrawals to 2100: Private account, 5.000",
+        "B 2100: Private account to 2120: Private withdrawals, 5.000",
+        "C 2120: Private withdrawals to 9998: Closing balance sheet account, 5.000",
+        "D 9998: Closing balance sheet account to 2120: Private withdrawals, 5.000"
+    ],
+    "solution": ["B"]
+}, {
+    "question": "Which of the following statements regarding the closing of VAT are correct?",
+    "options": [
+        "A After the VAT account has been closed to the prepaid VAT account, the prepaid VAT account can be balanced.",
+        "B The balance of the VAT account is accounted as Ttade accounts payable.",
+        "C The balance of the VAT account is directly closed to the income statement account.",
+        "D The balance of the Prepaid VAT account is entered on the VAT account."
+    ],
+    "solution": ["D"]
+}, {
+    "question": "During the current financial year all income from rent is generated by a rented warehouse with a monthly rental income of 1.000 EUR. How to close the account 4105: Rental income at year end of financial year?",
+    "options": [
+        "A 4105: Rental income to 9998: Closing balance sheet account, 12.000",
+        "B 9998: Closing balance sheet account to 4105: Rental income, 12.000",
+        "C 4105: Rental income to 9999: Income statement account, 12.000",
+        "D 9999: Income statement account to 4105: Rental income, 12.000"
+    ],
+    "solution": ["C"]
+}, {
+    "question": "An employee of JUPITER obtains a gross salary of 2.500 EUR in January via bank transfer. He also lives in a free company housing with rental value of 500 EUR. Payroll tax rate is 15% and social security contributions amount to 20% for employers and employees each. Church tax rate is 10% on payroll tax amount and solidarity surcharges amounts to 5 % of the payroll tax amount. What is the employee’s net salary in January, being transferred to his bank account?",
+    "options": [
+        "A 1.568,75 EUR",
+        "B 1.382,50 EUR",
+        "C 1.882,50 EUR",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["B"]
+}, {
+    "question": "An employee of JUPITER obtains a gross salary of 2.500 EUR in January via bank transfer. He also lives in a free company housing with rental value of 500 EUR. Payroll tax rate is 15% and social security contributions amount to 20% for employers and employees each. Church tax rate is 10% on payroll tax amount and solidarity surcharges amounts to 5 % of the payroll tax amount. What is the company’s overall burden in January?",
+    "options": [
+        "A 2.500 EUR",
+        "B 3.000 EUR",
+        "C 3.600 EUR",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "JUPITER is selling an used truck with a residual value of 22.000 EUR for the price of 22,000 EUR (gross) in cash. What is the respective posting?",
+    "options": [
+        "A 1600: Cash, 22.000 to 0520: Vehicle Fleet, 20.000 3800: VAT, 2.000",
+        "B 1600: Cash to 0520: Vehicle Fleet, 22.000",
+        "C 1600: Cash, 20.000 1400: Prepaid VAT, 2.000 to 0520: Vehicle Fleet, 20.000 6900: Losses from disposal of fixed (non-current) & current assets, 2.000",
+        "D 1600: Cash, 22.000 6900: Losses from disposal of fixed (non-current) & current assets , 2.000 to 0520: Vehicle Fleet, 22.000 3800: VAT, 2.000"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "JUPITER is selling an used truck with a residual value of 25.000 EUR for the price of 27,500 EUR (gross). Since the buyer pays in cash, JUPITER grants a cash discount of 10 %. How to post the sale correctly?",
+    "options": [
+        "A 1600: Cash, 27.500 to 0520: Vehicle Fleet, 25.000 3800: VAT, 2.500",
+        "B 1600: Cash, 25.000 to 0520: Vehicle Fleet, 25.000",
+        "C 1600: Cash, 27.500 to 0520: Vehicle Fleet, 22.500 3800: VAT, 2.500 6900: Losses from disposal of fixed & current assets, 2.500",
+        "D 1600: Cash, 24.750 6900: Losses from disposal of fixed & current assets, 2.500 to 0520: Vehicle Fleet, 22.500 3800: VAT, 2.500"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "An associate of JUPITER withdraws 300 EUR in cash as well as a computer with a residual value of 2.500 EUR. How to post those withdrawals correctly?",
+    "options": [
+        "A 2120: Private withdrawals, 2.800 to 1600: Cash, 300 0650: Office equipment, 2.500",
+        "B 2120: Private withdrawals, 2.830 to 1600: Cash, 300 3800: VAT, 30 0650: Office equipment, 2.500",
+        "C 2120: Private withdrawals, 3.050 to 1600: Cash, 300 0650: Office equipment, 2.500 3800: VAT, 250",
+        "D 2120: Private withdrawals, 3.080 to 1600: Cash, 300 0650: Office equipment, 2.500 3800: VAT, 280"
+    ],
+    "solution": ["C"]
+}, {
+    "question": "JUPITER is selling an used machinery for its residual value of 5,000 EUR (net) via bank transfer. For the transport a transport insurance for the price of 300 EUR is concluded, which is also paid via bank transfer. How to post the bank transfer regarding the transport insurance correctly?",
+    "options": [
+        "A 6760: Fight insurance to 1800: Bank, 300",
+        "B 6760: Fright insurance, 300 3800: VAT, 30 to 1800: Bank, 330",
+        "C 0440: Machinery to 1800: Bank, 300",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["A"]
+}, {
+    "question": "JUPITER is selling an unneeded warehouse with a residual value of EUR 30.000 for the price of 33.000 EUR (gross) on credit. How post this business transaction correctly?",
+    "options": [
+        "A 1300: Other receivables, 33.000 to 0240: Buildings, 30.000 4900: Income from disposal of fixed & current assets, 3.000",
+        "B 1300: Other receivables, 33.000 to 0240: Buildings, 30.000 1400: Prepaid VAT, 3.000",
+        "C 1300: Other receivables, 33.000 3800: VAT, 3.000 to 0240: Buildings, 30.000 4900: Income from disposal of fixed & current assets, 3.000",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["D"]
+}, {
+    "question": "JUPITER is selling two tables for 500 EUR (net) each to a customer. The customer pays by bank transfer. As one of the tables is qualitatively deficient, the customer sends this table back. How to post the return of the table if the customer gets paid off by JUPITER via bank transfer?",
+    "options": [
+        "A 4000: Revenue (FG) to 1800: Bank, 500",
+        "B 4000: Revenue (FG), 500 3800: VAT, 50 to 1800: Bank, 550",
+        "C 1110: Finished goods (FG) to 1800: Bank, 550",
+        "D 1110: Finished goods (FG)  1400: Prepaid VAT, 50 to 1800: Bank, 550"
+    ],
+    "solution": ["B"]
+}, {
+    "question": "JUPITER is buying a machinery for 50,000 EUR (net) on credit. In case of payment within 30 days, the seller grants a cash discount of 4 %. Payment by JUPITER is made ​​within this discount period via bank transfer. What is the correct posting for this payment by bank transfer?",
+    "options": [
+        "A 3300: Trade accounts payable, 55.000 to 1800: Bank, 52.800 0440: Machinery, 2.000 1400: Prepaid VAT, 200",
+        "B 3300: Trade accounts payable, 50.000 1400: Prepaid VAT, 5.000 to 1800: Bank, 50.000 4011: Customer cash discounts (Goods for Resale), 5.000",
+        "C 3300: Trade accounts payable, 50.000 to 1800: Bank, 50.000",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["A"]
+}, {
+    "question": "JUPITER is buying a truck for the price of 85.000 EUR (net) via bank transfer. What is the respective posting?",
+    "options": [
+        "A 1800: Bank to 0520: Vehicle Fleet, 85.000",
+        "B 1800: Bank to 0520: Vehicle Fleet, 93.500",
+        "C 1800: Bank, 93.500 to 0520: Vehicle Fleet, 85.000 1400: Prepaid VAT, 8.500",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["D"]
+}, {
+    "question": "JUPITER is selling a wardrobe to its customer for the price of 1,100 EUR (gross) on credit. For payment within 10 days JUPITER grants a cash discount of 3 %. The customer pays cash but not within the discount period. How to enter the customer’s payment after the discount period correctly?",
+    "options": [
+        "A 1600: Cash to 1200: Trade accounts receivables, 1.100",
+        "B 1600: Cash, 1.100 to 4000: Revenue (FG), 1.000 3800: VAT, 100",
+        "C 1600: Cash, 1.100 to 1200: Accounts receivable from trading, 1.000 3800: VAT, 100",
+        "D 1600: Cash to 4000: Revenue (FG), 1.100"
+    ],
+    "solution": ["A"]
+}, {
+    "question": "JUPITER is selling tables to a customer for the price of 4,500 EUR (net) on credit. For payment within 30 days JUPITER grants a cash discount of 3 %. The customer pays within the discount period via bank transfer. How is the original on credit-sale of the tables posted?",
+    "options": [
+        "A 1200: Trade accounts receivables, 4.950 to 4000: Revenue (FG), 4.500 3800: VAT, 450",
+        "B 1200: Trade accounts receivables, 4.950 to 4000: Revenue (FG), 4.365 3800: VAT, 450 4001: Customer cash discounts (fP), 135",
+        "C 1200: Trade accounts receivables, 4.801,50 4001: Customer cash discounts (FG) 148,50 to 4000: Revenue (FG), 4.500 3800: VAT, 450",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["A"]
+}, {
+    "question": "JUPITER is buying wood for the price of 10.000 EUR (net) and glue for 500 EUR (net) as well as lubricating oil for 60 EUR (net) from a single supplier on credit. What is the respective posting?",
+    "options": [
+        "A 3300: Trade accounts payable to 1040: Third-party components, 10.560",
+        "B 1010: Raw materials, 10.560 1400: Prepaid VAT, 1.056 to 3300: Trade accounts payable, 11.616 ",
+        "C 1010: Raw materials, 10.000 1020: Consumables, 500 1030: Supplies, 60 1400: Prepaid VAT, 1.056 to 3300: Trade accounts payable, 11.616",
+        "D 1010: Raw materials, 11.000 1040: Third-party components, 616 to 3300: Trade accounts payable, 10.560 3800: VAT, 1.056"
+    ],
+    "solution": ["C"]
+}, {
+    "question": "When producing a wardrobe JUPITER consumes paint with the value of 10 EUR. How to post this consumption?",
+    "options": [
+        "A 5020: Expenses for Consumables to 1020: Consumables, 10",
+        "B 5030: Expenses for supplies to 1030: Supplies, 10",
+        "C 5020: Expenses for auxiliary materials to 1110: Finished goods (FG), 10",
+        "D 5030: Expenses for supplies to 1110: Finished goods (FG), 10"
+    ],
+    "solution": ["A"]
+}, {
+    "question": "In December JUPITER pays the next month's rent of 2.400 EUR for a warehouse in cash. How to post this business transaction?",
+    "options": [
+        "A 1900: Deferred charges to 1800: Bank, 2.400",
+        "B 6310: Rent expense 3800: VAT, 240 to 1800: Bank, 2.640",
+        "C 6310: Rent expense 1400: Prepaid VAT, 240 to 1800: Bank, 2.640",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["A"]
+}, {
+    "question": "JUPITER is selling a table for 250 EUR (net) on credit. How to post the sale?",
+    "options": [
+        "A 1200: Trade accounts receivables to 1110: Finished goods (FG), 250",
+        "B 1200: Trade accounts receivables, 275 to 1110: Finished goods (FG), 250 3800: VAT, 25",
+        "C 1200: Trade accounts receivables to 4000: Revenue (FG), 275",
+        "D 1200: Trade accounts receivables, 275 to 4000: Fevenue (FG), 250 3800: VAT, 25"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "JUPITER is buying wood with a value of 8.800 EUR (gross) on credit. For payment within 10 days a cash discount of 5 % is granted by the seller. Payment is made by JUPITER ​​within this discount period via bank transfer. What is the correct posting when paying via bank transfer.",
+    "options": [
+        "A 3300: Trade accounts payables, 8.800 to 1800: Bank, 8.360 1011: Supplier cash discount (raw materials), 440",
+        "B 3300: Trade accounts payables, 8.360 to 1800: Bank, 8.000 1011: Supplier cash discount (raw materials), 360",
+        "C 3300: Trade accounts payables, 8.800 to 1800: Bank, 8.360 1011: Supplier cash discount (raw materials), 400 1400: Prepaid VAT, 40",
+        "D 1010: Raw materials, 8.000 to 3300: Trade accounts payables, 8.800 1400: Prepaid VAT, 800"
+    ],
+    "solution": ["C"]
+}, {
+    "question": "A company receives an interest payment for invested money from the bank. What effect does this business transaction have on the balance sheet ?",
+    "options": [
+        "A Income affecting change in total assets (balance reduction).",
+        "B Income non-affecting change in total assets (balance extension).",
+        "C Income affecting assets swap.",
+        "D None of above mentioned answers is correct."
+    ],
+    "solution": ["D"]
+}, {
+    "question": "What does a scheduled depreciation of a production machinery constitute for a company?",
+    "options": [
+        "A An investment but not an expense.",
+        "B An expense but not a payment.",
+        "C An income but no receipts.",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["B"]
+}, {
+    "question": "At the end of financial year JUPITER has outstanding trading receivables of 110,000 EUR. From past experience it is known that only 97 % of such receivables are actually paid. How to post this situation from JUPITER’s perspective ?",
+    "options": [
+        "A 1240: Allowance for doubtful accounts to 1200: Trade accounts receivables, 3300",
+        "B 6920: General reserve to 1200: Trade accounts receivables, 2750",
+        "C 6923: Specific reserve to 1200: Trade accounts receivables, 2750",
+        "D 6920: General reserve to 1200: Trade accounts receivables, 3300"
+    ],
+    "solution": ["B"]
+}, {
+    "question": "Which of the following statements regarding the private account is correct ?",
+    "options": [
+        "A On account 2120: private withdrawals only withdrawals of cash by the businessman, but not withdrawals of assets by the businessman are entered.",
+        "B The account 2120: private withdrawals is primarily closed on account 2100: private account, which again is closed on account 9999: Income statement account.",
+        "C If the balance of account 2100: private account is on debit side, equity increases.",
+        "D If the balance of account 2100: private account is on credit side, private contributions exceed private withdrawals."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "On May 10th 2012 JUPITER has bought mirrors for the production of wardrobes from a supplier for the price of 2,000 EUR (net) on credit. For payment within 10 days a cash discount of 5 % granted by the supplier. JUPITER pays the bill on May 15th 2012 via bank transfer. Which of the following postings represents the payment transaction correctly ?",
+    "options": [
+        "A 3300: Trade accounts payables, 2.200 to 1800: Bank, 2.090 1040: Third-party components, 100 1400: Prepaid VAT, 10",
+        "B 3300: Trade accounts payables, 2.200 to 1800: Bank, 2.090 1041: Supplier cash discount (third-party components), 100 1400: Prepaid VAT, 10",
+        "C 3300: Trade accounts payables, 2.200 to 1800: Bank, 8.360 1011: Supplier cash discount (raw materials), 400 1400: Prepaid VAT, 40",
+        "D 3300: Trade accounts payables, 2.200 to 1800: Bank, 2.090 4810: Change in work-in-process (WIP), 100 1400: Prepaid VAT, 10"
+    ],
+    "solution": ["B"]
+}, {
+    "question": "On November 1st 2012 JUPITER pays charges of a fire insurance in the amount of 300 (net) EUR for three months (November, December, January ) in advance by bank transfer. Which is the correct posting regarding the payment of charges on November 1st 2012?",
+    "options": [
+        "A 6400: Insurances, 300 1400: Prepaid VAT, 30 to 1800: Bank, 330 ; 1900: Deferred to 6400: Insurances, 100",
+        "B 6400: Insurances, 300 1900: to 1800: Bank, 300 ; Deferred charges to 6400: Insurances, 100",
+        "C 6400: Insurances, 300 1400: Prepaid VAT, 30 to 1800: Bank, 330",
+        "D 6400: Insurances to 1800: Bank, 300"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "JUPITER is buying a patent for an improved polishing procedure on logs for 15.000 EUR (net). Payment is on credit. Which of the following postings represents the business transaction correctly?",
+    "options": [
+        "A 0100: Intangible assets, 15.000 to 3300: Trade accounts payables, 16.500 1400: Prepaid VAT, 1.500",
+        "B 1040: Third-party components, 15.000 to 3300: Trade accounts payables, 16.500 1400: Prepaid VAT, 1.500",
+        "C 0100: Intangible assets, 15.000 to 3300: Trade accounts payables, 15.000",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["D"]
+}, {
+    "question": "A businessman withdraws a computer with residual value of 1.200 EUR from his company JUPITER as a gift for his son. Which of the following postings represents the business transaction correctly?",
+    "options": [
+        "A 2120: Private withdrawals to 4900: Revenue, 1.200",
+        "B 2120: Private withdrawals to 0650: Office equipment, 1.200",
+        "C 2120: Private withdrawals, 1.320 to 0650: Office equipment, 1.200 3800: VAT, 120",
+        "D There is no entry."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "A long-time customer who has bought furniture from JUPITER repeatedly in the recent months obtains a loyalty bonus from JUPITER in the amount of EUR 5,000 (net) in cash. Which of the following postings represents the payment of the bonus correctly?",
+    "options": [
+        "A 4002: Customer bonuses (FG), 5.000 3800: VAT, 500 to 1600: Cash, 5.500",
+        "B 4002: Customer bonuses (FG), 5.000 to 1600: Cash, 5.000",
+        "C 4000: Revenue (FG), 5.000 3800: VAT, 500 to 1600: Cash, 5.500",
+        "D 4000: Revenue (FG) to 1600: Cash, 5.000"
+    ],
+    "solution": ["A"]
+}, {
+    "question": "JUPITER is buying a company car for the chairman at the amount of EUR 30.000 (net) by bank transfer. Which of the following postings represents the business transaction correctly?",
+    "options": [
+        "A 1800: Bank to 0520: Vehicle Fleet, 30.000",
+        "B 1800: Bank, 33.000 to 0520: Vehicle Fleet, 30.000 3800: VAT, 3.000",
+        "C 0520: Vehicle Fleet, 30.000 3800: VAT, 3.000 to 1800: Bank, 33.000",
+        "D 0520: Vehicle Fleet, 30.000 1400: Prepaid VAT, 3.000 to 1800: Bank, 33.000"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "An associate transfers 500 EUR from his private bank account to his company JUPITER. Which of the following postings represents the business transaction correctly?",
+    "options": [
+        "A 1800: Bank to 2110: Private investment, 500",
+        "B 1800: Bank, 500 1400: Prepaid VAT, 50 to 2110: Private investment, 550",
+        "C 1800: Bank to 2900: Equity account, 550",
+        "D There is no entry."
+    ],
+    "solution": ["A"]
+}, {
+    "question": "Which of the following statements regarding VAT is correct?",
+    "options": [
+        "A An entrepreneur’s private withdrawal of his company’s assets is a business transaction which is always subject to VAT.",
+        "B If a receivable is classified as doubtful, VAT has to be corrected immediately.",
+        "C When selling assets under their residual value this sale is never subject to VAT.",
+        "D None of the above mentioned answers is correct."
+    ],
+    "solution": ["D"]
+}, {
+    "question": "Which (basic) types of legal forms of enterprises can be distinguished under private law?",
+    "options": [
+        "A Individual entrepreneurs, partnerships, corporations and public authorities.",
+        "B Individual entrepreneurs, partnerships, corporations.",
+        "C Individual entrepreneurs and partnerships.",
+        "D Individual entrepreneurs and corporations."
+    ],
+    "solution": ["B"]
+}, {
+    "question": "A trial runs a lawsuit due to a product defect. On December 31st 2013, it seems that the law suit will be lost and that there will be damages in the amount of 500.000 EUR to be paid. However, the judgment of the trial becomes final on March 1st 2014 . Which posting would be correct in case of an acquittal?",
+    "options": [
+        "A None of the mentioned accounting postings is correct.",
+        "B 3000: Provisions to 1800: Bank, 500.000",
+        "C 6300: Other operating expenses to 3000: Provisions, 500.000",
+        "D 3000: Provisions, 500.000 to 4930: Income from the reversal of provisions, 500.000"
+    ],
+    "solution": ["A"]
+}, {
+    "question": "Which of the following statements fulfills the terms of being a merchant according to HGB ?",
+    "options": [
+        "A Benno Schmidt is running a small kebab shop which he opens only occasionally. His turnover is not more than 8.000 EUR p.a.",
+        "B Art Life GmbH is a company concerned with the organization of exhibitions for unemployed artists on a non profit basis.",
+        "C Dr. Susi Schön runs an office for plastic surgery in Grünwald which has an annual turnover of about 5.000.000 EUR.",
+        "D Otto Meier runs a small shop, which he opens only occasionally. His turnover is not more than 5000 EUR p.a."
+    ],
+    "solution": ["B"]
+}]

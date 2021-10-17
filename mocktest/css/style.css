@@ -1,0 +1,17 @@
+#style  {
+    background-color: red;
+}
+#style:focus {     
+    background-color:yellow;    
+}
+a {
+  padding: 5px;
+  background: gray;
+}
+a:visited {
+  background: red;
+}
+.question, .option {
+    font-family: monospace; 
+    color: gray;
+}

@@ -1,0 +1,757 @@
+[{
+  "question": "A business transaction changes a company‘s ...",
+  "options": [
+    "A Financialsituation",
+    "B Percentshare",
+    "C Managingdirector",
+    "D Products"
+  ],
+  "solution": ["A"]
+}, {
+  "question": "Who is entitled to appoint the management?",
+  "options": [
+    "A Owners",
+    "B Employees",
+    "C Creditors ",
+    "D Suppliers"
+  ],
+  "solution": ["A"]
+}, {
+  "question": "A business transaction has two impacts from a commercial point of view“. This statement ...",
+  "options": [
+    "A Never applies.",
+    "B Applies to capital investments.",
+    "C Applies to loans. ",
+    "D Always applies."
+  ],
+  "solution": ["D"]
+}, {
+  "question": "An event causing a change in the financial situation of a company is called a ...",
+  "options": [
+    "A Balanceevent.",
+    "B Business Transaction",
+    "C Firm event.",
+    "D Company event."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "Double-entry bookkeeping considers the business transactions from the perspective of ...",
+  "options": [
+    "A Owners.",
+    "B Companies.",
+    "C Creditors.",
+    "D Accountants."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "What do you call fixed assets, current assets, equity and debt in general?",
+  "options": [
+    "A Total assets",
+    "B Balance sheet items",
+    "C Capital stock",
+    "D Financialsituation"
+  ],
+  "solution": ["B"]
+}, {
+  "question": "How many commercial impacts does a business transaction have at least ?",
+  "options": [
+    "A 1 ",
+    "B 2",
+    "C 3 ",
+    "D 4"
+  ],
+  "solution": ["B"]
+}, {
+  "question": "Which balance sheet items are designed with T-accounts?",
+  "options": [
+    "A All",
+    "B None",
+    "C Asset-side only",
+    "D Liabilities-sideonly"
+  ],
+  "solution": ["A"]
+}, {
+  "question": "What exactly is recorded on a T-account?",
+  "options": [
+    "A Additions only",
+    "B Subtractionsonly",
+    "C Additions and subtractions ",
+    "D Neither nor"
+  ],
+  "solution": ["C"]
+}, {
+  "question": "What happens to the equity in case of a withdrawal?",
+  "options": [
+    "A It decreases.",
+    "B Nothing.",
+    "C It increases.",
+    "D All of it."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "What happens to the bank account when purchasing goods on credit?",
+  "options": [
+    "A It decreases.",
+    "B Nothing.",
+    "C It increases.",
+    "D All of it."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "What happens to the equity in case of a capital investment?",
+  "options": [
+    "A It decreases.",
+    "B Nothing.",
+    "C It increases.",
+    "D All of it."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "What happens to the debt account when a machinery is bought and paid in cash?",
+  "options": [
+    "A It decreases.",
+    "B Nothing.",
+    "C It increases.",
+    "D All of it."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "From the balance sheet point of view the debit side regarding fixed assets is ...",
+  "options": [
+    "A on top.",
+    "B at the bottom.",
+    "C at the outside.",
+    "D at the inside."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "Fixed assets are increasing ...",
+  "options": [
+    "A On debit side.",
+    "B on credit side.",
+    "C on the closing balance.",
+    "D not at all."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "The account ‘fixed assets’ was booked on credit side. Thus, fixed assets have ...",
+  "options": [
+    "A increased.",
+    "B decreased.",
+    "C remainedequal.",
+    "D All of it."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "What happens to fixed assets when a machine is bought and paid in cash?",
+  "options": [
+    "A It decreases.",
+    "B Nothing.",
+    "C It increases.",
+    "D All of it."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "From the balance sheet point of view the debit side regarding current assets is ...",
+  "options": [
+    "A on top.",
+    "B at the bottom.",
+    "C at the outside.",
+    "D at the inside."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "From the balance sheet point of view the debit side regarding equity is ...",
+  "options": [
+    "A on top.",
+    "B at the bottom.",
+    "C at the outside.",
+    "D at the inside."
+  ],
+  "solution": ["D"]
+}, {
+  "question": "From the balance sheet point of view the debit side regarding debt is ...",
+  "options": [
+    "A on top.",
+    "B at the bottom.",
+    "C at the outside.",
+    "D at the inside."
+  ],
+  "solution": ["D"]
+}, {
+  "question": "From the balance sheet point of view the credit side regarding fixed assets is ...",
+  "options": [
+    "A on top.",
+    "B at the bottom.",
+    "C at the outside.",
+    "D at the inside."
+  ],
+  "solution": ["D"]
+}, {
+  "question": "From the balance sheet point of view the credit side regarding current assets is ...",
+  "options": [
+    "A on top.",
+    "B at the bottom.",
+    "C at the outside.",
+    "D at the inside."
+  ],
+  "solution": ["D"]
+}, {
+  "question": "From the balance sheet point of view the credit side regarding equity is ...",
+  "options": [
+    "A on top.",
+    "B at the bottom.",
+    "C at the outside.",
+    "D at the inside."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "From the balance sheet point of view the credit side regarding debt is ...",
+  "options": [
+    "A on top.",
+    "B at the bottom.",
+    "C at the outside.",
+    "D at the inside."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "Current assets are increasing...",
+  "options": [
+    "A on debit side.",
+    "B on credit side.",
+    "C on the closing balance.",
+    "D not at all."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "Equity is increasing...",
+  "options": [
+    "A on debit side.",
+    "B on credit side.",
+    "C on the closing balance.",
+    "D not at all."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "Debt is increasing...",
+  "options": [
+    "A on debit side.",
+    "B on credit side.",
+    "C on the closing balance.",
+    "D not at all."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "Fixed assets are decreasing ...",
+  "options": [
+    "A on debit side.",
+    "B on credit side.",
+    "C on the closing balance.",
+    "D not at all."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "Current assets are decreasing ...",
+  "options": [
+    "A on debit side.",
+    "B on credit side.",
+    "C on the closing balance.",
+    "D not at all."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "Equity is decreasing ...",
+  "options": [
+    "A on debit side. ",
+    "B on credit side.",
+    "C on the closing balance.",
+    "D not at all."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "Debt is decreasing ...",
+  "options": [
+    "A on debit side.",
+    "B on credit side.",
+    "C on the closing balance.",
+    "D not at all."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "The account ‘current assets’ was booked on credit side. Thus, current assets have ...",
+  "options": [
+    "A increased.",
+    "B decreased",
+    "C remainedequal.",
+    "D All of it."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "The account ‘equity’ was booked on credit side.Thus equity has ...",
+  "options": [
+    "A increased.",
+    "B decreased.",
+    "C remainedequal.",
+    "D All of it."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "The account ‘debt’ was booked on credit side. Thus debt has ...",
+  "options": [
+    "A increased.",
+    "B decreased.",
+    "C remainedequal.",
+    "D All of it."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "The account ‘current assets’ was booked on debit side. Thus current assets have ...",
+  "options": [
+    "A increased.",
+    "B decreased.",
+    "C remainedequal.",
+    "D All of it."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "The account ‘debt’ was booked on debit side. Thus current assets have ...",
+  "options": [
+    "A increased.",
+    "B decreased.",
+    "C remainedequal.",
+    "D All of it."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "The account ‘equity’ was booked on debit side. Thus current assets have ...",
+  "options": [
+    "A increased.",
+    "B decreased",
+    "C remainedequal.",
+    "D All of it."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "The account ‘fixed assets’ was booked on debit side. Thus fixed assets have ...",
+  "options": [
+    "A increased.",
+    "B decreased.",
+    "C remainedequal.",
+    "D All of it."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "On a T-account there are 4 entries on debit side with an amount of 2.000 € each and another 8 entries on credit side with an amount of 1.500 € each. What is the correct type of balance and what value does it have?",
+  "options": [
+    "A Debit balance of 4.000 €",
+    "B Credit balance of 4.000 €",
+    "C Debit balance of 8.000 €",
+    "D Credit balance of 8.000 €"
+  ],
+  "solution": ["B"]
+}, {
+  "question": "On a T-account there are 8 entries on debit side with an amount of 1.500 € each and another 4 entries on credit side with an amount of 2.000 € each. What is the correct type of balance and what value does it have?",
+  "options": [
+    "A Debit balance of 4.000 €",
+    "B Credit balance of 4.000 €",
+    "C Debit balance of 8.000 €",
+    "D Credit balance of 8.000 €"
+  ],
+  "solution": ["A"]
+}, {
+  "question": "On a T-account there are 5 entries on debit side with an amount of 1.000 € each and another 10 entries on credit side with an amount of 2.000 € each. What is the correct type of balance and what value does it have?",
+  "options": [
+    "A Debit balance of 15.000 €",
+    "B Credit balance of 15.000 €",
+    "C Debit balance of 20.000 €",
+    "D Credit balance of 20.000 €"
+  ],
+  "solution": ["B"]
+}, {
+  "question": "On a T-account there are 10 entries on debit side with an amount of 2.000 € each and another 5 entries on credit side with an amount of 1.000 € each. What is the correct type of balance and what value does it have?",
+  "options": [
+    "A Debit balance of 15.000 €",
+    "B Credit balance of 15.000 €",
+    "C Debit balance of 20.000 €",
+    "D Credit balance of 20.000 €"
+  ],
+  "solution": ["A"]
+}, {
+  "question": "What is the technical term for the second account on which a business transaction is posted?",
+  "options": [
+    "A Antagonist accounting",
+    "B Counterpart",
+    "C Second account",
+    "D Contra account"
+  ],
+  "solution": ["D"]
+}, {
+  "question": "Postings are always made in the form of a journal entry ...",
+  "options": [
+    "A credit to credit.",
+    "B credit to debit.",
+    "C debit to credit.",
+    "D debit to debit."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "Postings that affect profit or loss, are called ...",
+  "options": [
+    "A successful.",
+    "B prosperous.",
+    "C income affecting.",
+    "D non income affecting."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "Revenue is a(n)...",
+  "options": [
+    "A depreciation.",
+    "B increase in value.",
+    "C value loss.",
+    "D decrease in value."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "Revenue and profit are ... the same.",
+  "options": [
+    "A always",
+    "B never",
+    "C frequently",
+    "D sometimes"
+  ],
+  "solution": ["B"]
+}, {
+  "question": "Expense and loss are ... the same.",
+  "options": [
+    "A always",
+    "B never",
+    "C frequently ",
+    "D sometimes"
+  ],
+  "solution": ["B"]
+}, {
+  "question": "Expense is a/an ...",
+  "options": [
+    "A depreciation.",
+    "B increase in value.",
+    "C value gain.",
+    "D value elucidation."
+  ],
+  "solution": ["D"]
+}, {
+  "question": "A business transaction which represents a depreciation (expense) is booked on (a) ...",
+  "options": [
+    "A private account.",
+    "B profit and loss account.",
+    "C real account.",
+    "D none of these accounts."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "A business transaction which represents an increase in value is posted on (a) ...",
+  "options": [
+    "A private account.",
+    "B profit and loss account.",
+    "C real account.",
+    "D none of these accounts."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "A business transaction is posted on the credit side of a profit and loss account. Thus, it is a(n) ...",
+  "options": [
+    "A revenue.",
+    "B expense.",
+    "C withdrawal.",
+    "D investment."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "A business transaction is posted on the debit side of a profit and loss account. Thus, it is a(n) ...",
+  "options": [
+    "A revenue.",
+    "B expense.",
+    "C withdrawal.",
+    "D investment."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "A business transaction is posted on the credit side of a private account . Thus, it is a(n) ...",
+  "options": [
+    "A revenue.",
+    "B expense.",
+    "C withdrawal. ",
+    "D investment."
+  ],
+  "solution": ["D"]
+}, {
+  "question": "A business transaction is posted on the debit side of a private account. Thus, it is a(n) ...",
+  "options": [
+    "A revenue.",
+    "B expense.",
+    "C withdrawal.",
+    "D investment."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "Which business transaction does affect an equity subaccount ?",
+  "options": [
+    "A Purchase of material in cash.",
+    "B Credit Repayment.",
+    "C Interestpayment.",
+    "D Payment to supplier."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "Which business transaction does affect an inventories subaccount?",
+  "options": [
+    "A Purchase of materials in cash.",
+    "B Credit repayment.",
+    "C Interestpayment.",
+    "D Payment to supplier."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "Which business transaction does affect a liabilities subaccount?",
+  "options": [
+    "A Purchase of materials in cash.",
+    "B Loan repayment.",
+    "C Cash investment of 200 €.",
+    "D Purchase of a building."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "Which business transaction does affect a fixed assets subaccount?",
+  "options": [
+    "A Purchase of materials in cash.",
+    "B Credit repayment.",
+    "C Interestpayment.",
+    "D Purchase of a building."
+  ],
+  "solution": ["D"]
+}, {
+  "question": "Which business transaction does not affect any equity subaccount?",
+  "options": [
+    "A Salary payment.",
+    "B Cash withdrawal.",
+    "C Purchase of materials on credit.",
+    "D Interestpayment."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "Which business transaction does not affect any liabilities subaccount?",
+  "options": [
+    "A Purchase of materials in cash.",
+    "B Credit repayment.",
+    "C Borrowing cash from the owner.",
+    "D Payment to supplier."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "Which business transaction does not affect any fixed assets subaccount?",
+  "options": [
+    "A Scheduleddepreciation.",
+    "B Unscheduled depreciation of machinery.",
+    "C Purchase of machinery.",
+    "D Purchase of wooden planks."
+  ],
+  "solution": ["D"]
+}, {
+  "question": "Which business transaction does not affect any current assets subaccount?",
+  "options": [
+    "A Purchase of machinery on credit.",
+    "B Purchase of raw material.",
+    "C Sale of goods to customers.",
+    "D Payment from customers."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "Revenue and expenses are posted on ...",
+  "options": [
+    "A private accounts.",
+    "B profit and loss accounts.",
+    "C debit accounts.",
+    "D other accounts."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "Investments and withdrawals are posted on ...",
+  "options": [
+    "A private accounts.",
+    "B profit and loss accounts.",
+    "C debit accounts.",
+    "D other accounts"
+  ],
+  "solution": ["A"]
+}, {
+  "question": "Material accounts belong to ...",
+  "options": [
+    "A fixed assets.",
+    "B equity.",
+    "C current assets.",
+    "D debt."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "The account ‘factory equipment’ belongs to ...",
+  "options": [
+    "A fixed assets.",
+    "B equity.",
+    "C current assets.",
+    "D debt."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "The business transaction “purchase of materials on credit“ results in ...",
+  "options": [
+    "A increasing debt.",
+    "B decreasing debt.",
+    "C increasing equity.",
+    "D decreasing equity."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "The business transaction ‘repayment of a loan’ results in ...",
+  "options": [
+    "A increasing debt.",
+    "B decreasing debt.",
+    "C increasing equity. ",
+    "D decreasing equity."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "The business transaction ‘depreciation of a building’ results in ...",
+  "options": [
+    "A increasingdebt.",
+    "B decreasingdebt.",
+    "C increasingequity.",
+    "D decreasingequity."
+  ],
+  "solution": ["D"]
+}, {
+  "question": "The business transaction ‘cash investment of 1.000 €‘ results in ...",
+  "options": [
+    "A increasingdebt.",
+    "B dedreasingdebt.",
+    "C increasingequity.",
+    "D decreasingequity."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "If an amount of 4.000 € is posted on the credit side of a material account, the stock of materials ...",
+  "options": [
+    "A decreases.",
+    "B increases.",
+    "C remainsequal.",
+    "D All of it."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "If an amount of 4.000 € is posted on the debit side of a material account, the stock of materials ...",
+  "options": [
+    "A decreases.",
+    "B increases.",
+    "C remainsequal.",
+    "D All of it."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "If an amount of 1.000 € is posted on the credit side of a private account, equity ...",
+  "options": [
+    "A decreases.",
+    "B decreases.",
+    "C remainsequal.",
+    "D All of it."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "If an amount of 1.000 € is posted on the debit side of a private account, equity ...",
+  "options": [
+    "A decreases",
+    "B increases.",
+    "C remainsequal.",
+    "D All of it."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "The method to determine deviation between book values ​​and reality is called ...",
+  "options": [
+    "A inquisition.",
+    "B investigation.",
+    "C inventory-taking.",
+    "D inventory register."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "Book printer Otto Müller starts running his commercial business on 01.04.01. At this point of time his equity amounts to 200,000 € whereas liabilities do not exist. On 31.12.01 he prepares his financial statements. For the year 01 his income is 220,000 € and his expenses are 130,000 €. Moreover equity was only modified by operational processes. What is the net income of the financial year ?",
+  "options": [
+    "A 200.000€.",
+    "B 90.000€.",
+    "C 290.000€.",
+    "D 220.000€."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "Same setting as above. Where to report the financial year‘s net income?",
+  "options": [
+    "A Balance sheet.",
+    "B Profit and loss-statement.",
+    "C Notes.",
+    "D Cash Flow statement."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "Book printer Otto Müller starts running his commercial business on 01.04.01. At this point of time his equity amounts to 200,000 € whereas liabilities do not exist. On 31.12.01 he prepares his financial statements. For the year 01 his income is 220,000 € and his expenses are 130,000 €. Moreover equity was only modified by operational processes. What are the net assets (= equity) at the end of the financial year ?",
+  "options": [
+    "A 200.000€.",
+    "B 90.000€.",
+    "C 290.000€.",
+    "D 220.000€."
+  ],
+  "solution": ["C"]
+}, {
+  "question": "Same setting as above. Where to report the net assets?",
+  "options": [
+    "A Balance sheet.",
+    "B Profit and loss-statement.",
+    "C Notes.",
+    "D Cash Flow statement."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "Book printer Otto Müller starts running his commercial business on 01.04.01. At this point of time his equity amounts to 200,000 € whereas liabilities do not exist. On 31.12.01 he prepares his financial statements. For the year 01 his income is 220,000 € and his expenses are 130,000 €. Moreover equity was only modified by operational processes. Is there any increase or decrease of net assets and what is the amount involved if any?",
+  "options": [
+    "A Increase of net assets of 220.000 €.",
+    "B Increase of net assets of 90.000 €.",
+    "C Decrease of net assets of 130.000 €.",
+    "D Decrease of net assets of 290.000 €."
+  ],
+  "solution": ["B"]
+}, {
+  "question": "Select the wrong answer!",
+  "options": [
+    "A The balance sheet is a period calculation, e.g. for the period of 1.1.XX until 31.12.XX.",
+    "B The profit and loss statement is a period calculation, e.g for the period of 1.1.XX until 31.12.XX.",
+    "C The cash flow statement is a period calculation, e.g for the period of 1.1.XX until 31.12.XX.",
+    "D The equity analysis is a period calculation, e.g for the period of 1.1.XX until 31.12.XX."
+  ],
+  "solution": ["A"]
+}, {
+  "question": "Financial accounting does not include:",
+  "options": [
+    "A Accounts payable.",
+    "B Payroll accounting.",
+    "C Assets accounting.",
+    "D Forecastaccounting."
+  ],
+  "solution": ["D"]
+}, {
+  "question": "Accounts receivable record ...",
+  "options": [
+    "A business transactions with suppliers.",
+    "B wage and salary accounts for each employee.",
+    "C value changes, additions and disposals of assets.",
+    "D business transactions with customers."
+  ],
+  "solution": ["D"]
+}]

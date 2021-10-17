@@ -1,0 +1,262 @@
+[{
+    "question": "Who has to keep books?",
+    "options": [
+        "A Every merchant.",
+        "B Merchants, who are below the criteria of §241a HGB.",
+        "C Only companies, which exceed the criteria of §241a HGB.",
+        "D Every merchant except individual merchants, who are below the size criteria of § 241a HGB"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "Artist Picasso, who is not registered in the commercial register does not have to keep books because he...",
+    "options": [
+        "A is a “merchant by definition”.",
+        "B is below the size criteria of §241a HGB.",
+        "C is a freelance professional.",
+        "D runs a company but no commercial business after all."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "Who has to keep books?",
+    "options": [
+        "A Skittels club „Gut Holz”",
+        "B Graveyard „Zur letzten Ruhe”",
+        "C Chartered accountant Bernd Grottel",
+        "D Tree farm „Deutsche Eiche” (registered in commercial register)"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "Who has to keep books?",
+    "options": [
+        "A Lawyer Ludwig Sorgenfrei",
+        "B „Arge”Landverschönerung",
+        "C Fast-treck KGaA",
+        "D GbR Wörmer"
+    ],
+    "solution": ["C"]
+}, {
+    "question": "Who does not have to keep books?",
+    "options": [
+        "A Geldgierbank SchleideneG",
+        "B Whiskey-distillery Resi Schluckspecht",
+        "C Eifel AG",
+        "D Dentist Egon Tutnichtweh"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "Who does not have keep books?",
+    "options": [
+        "A Anton Stiller as a silent partner",
+        "B Hotel Cosy Rest (registered in commercial register)",
+        "C Carpe Diem GmbH",
+        "D Schnöller OHG (registered in commercial register)"
+    ],
+    "solution": ["A"]
+}, {
+    "question": "Who has to keep books below?",
+    "options": [
+        "A A freelance architect employs 10 architects as well as 15 technical drawers. Annual revenue amounts to approximately 2,5 Mio. €.",
+        "B A kiosk owner realizes an annual revenue of 120.000 € and an annual profit of 20.000 €",
+        "C Another kiosk owner realizes an annual revenue of 80.000 € and an annual profit of 9.000 €. His kiosk is registered in commercial register.",
+        "D A carpenter employs 50 employees. Fixed assets amount to 500.000 €, annual revenue amounts to 3,5 Mio. €"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "For whom of the persons mentioned above does § 241a HGB apply, assuming the numbers apply for two consecutive financial years?",
+    "options": [
+        "A Only A) and B)",
+        "B Only B)",
+        "C Only B) and C)",
+        "D Only C)"
+    ],
+    "solution": ["C"]
+}, {
+    "question": "Businessman Mr. Schneider has operated his commercial business for a long time. In the past years he realized annual revenues and annual profits as follows :<br>Year 10:  --------- Year 11:  --------- Year 12:  --------- Year 13:<br>Profit    ----------- Profit    ----------- Profit    ----------- Profit<br>58.000 €  --------- 61.000 € --------- 60.000 €  --------- 58.000 €<br>Revenue   ---------- Revenue   ---------- Revenue   ---------- Revenue<br>592.000 € -------- 598.000 € -------- 600.000 € -------- 596.000 €<br>Mr. Schneider wishes to quit bookkeeping in terms of commercial law as soon as possible. Which is the earliest date possible?",
+    "options": [
+        "A Year 11",
+        "B Year 12",
+        "C Year 13",
+        "D Year 14"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "Small business owner Mr. Schulze has been exempted from the obligation to keep books, since he has come below the criteria of §241a HGB until now. In year 10 he has realized a fiscal profit of 58.000 € and fiscal revenues of 585.000 €. If he was subject to the duty of keeping books, he still would have to take receivables totaling 32.000 € into account. This however would lead to higher revenues. According to net fiscal income method receivables are not taken into account. The receivables contain a share in profits of 10.000 €. How to proceed further in year 11?",
+    "options": [
+        "A Mr. Schulze does not exceed the limitations of § 241a HGB and therefore does not have to keep books.",
+        "B Mr. Schulze already should have kept books in year 10.",
+        "C Mr. Schulze has to keep books starting in year 11.",
+        "D Mr. Schulze has to keep books starting in year 12, since criteria of §241a HGB have to be exceeded in two consecutive years."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "Who needs to be appointed for a company being able to be legally represented?",
+    "options": [
+        "A Tax advisor",
+        "B Managingdirector",
+        "C Public accountant",
+        "D Owner"
+    ],
+    "solution": ["B"]
+}, {
+    "question": "Who is entitled to appoint the managment?",
+    "options": [
+        "A Owners",
+        "B Employees",
+        "C Creditors",
+        "D Suppliers"
+    ],
+    "solution": ["A"]
+}, {
+    "question": "What do you call the account of a company used to process its monetary transactions ?",
+    "options": [
+        "A Investment account",
+        "B Private account",
+        "C Liability account",
+        "D Commercial account"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "What‘s the technical term for all the debts of a company?",
+    "options": [
+        "A Assets",
+        "B Provisions",
+        "C Liabilities",
+        "D Credits"
+    ],
+    "solution": ["C"]
+}, {
+    "question": "The side of the balance sheet, which includes equity and debt is called ...",
+    "options": [
+        "A Asset side",
+        "B Capital side",
+        "C Liabilities",
+        "D Debt side"
+    ],
+    "solution": ["C"]
+}, {
+    "question": "The side of the balance sheet, which includes the company's assets is called ...",
+    "options": [
+        "A Assets side",
+        "B Capital side",
+        "C Liabilities side",
+        "D Debt side"
+    ],
+    "solution": ["A"]
+}, {
+    "question": "Who of the below persons is not a creditor?",
+    "options": [
+        "A A supplier from whom the company has bought goods on credit.",
+        "B A Bank which has granted the company a bank loan.",
+        "C Customer whom the company has sold goods on credit.",
+        "D An owner who has granted the company a loan."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "If a person goes to the commercial trade office and registers a company, this company has ...",
+    "options": [
+        "A Liabilities",
+        "B Debt",
+        "C Equity",
+        "D No capital"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "What do you call persons besides the owners of a company who provide capital to this company?",
+    "options": [
+        "A Sponsors",
+        "B Creditors",
+        "C Debtors",
+        "D Donors"
+    ],
+    "solution": ["B"]
+}, {
+    "question": "If a supplier grants a suppliers credit to a customer for a certain period of time this period of time granted is called:",
+    "options": [
+        "A Credit line",
+        "B Target agreement",
+        "C Time of payment",
+        "D Free kick"
+    ],
+    "solution": ["C"]
+}, {
+    "question": "If a bank grants a customer a bank loan over a certain period of time, this is called a ...",
+    "options": [
+        "A Credit line",
+        "B Target agreement",
+        "C Time of payment",
+        "D Free kick"
+    ],
+    "solution": ["A"]
+}, {
+    "question": "What is the technical term when a company purchases assets in order to work with it ?",
+    "options": [
+        "A Depreciation",
+        "B Valuation",
+        "C Investment",
+        "D Financial statements"
+    ],
+    "solution": ["C"]
+}, {
+    "question": "How to call capital, provided by the creditors of a company?",
+    "options": [
+        "A Equity",
+        "B Risk capital",
+        "C Loss capital",
+        "D Debt"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "How to call a transaction in which the owners of a company provide capital to their company?",
+    "options": [
+        "A Capital investment",
+        "B Transfer",
+        "C Capital withdrawal",
+        "D Credit"
+    ],
+    "solution": ["A"]
+}, {
+    "question": "Money invested by owners in their company is called ...",
+    "options": [
+        "A Losscapital",
+        "B Credit",
+        "C Equity capital",
+        "D Asset deposit"
+    ],
+    "solution": ["C"]
+}, {
+    "question": "Someone providing capital to a company without being its owner is referred to as:",
+    "options": [
+        "A Firm",
+        "B User",
+        "C Debtor",
+        "D Creditor"
+    ],
+    "solution": ["D"]
+}, {
+    "question": "What do you call the capital provided by owners to their company?",
+    "options": [
+        "A Equity capital",
+        "B Risk capital",
+        "C Loss capital",
+        "D Debt"
+    ],
+    "solution": ["A"]
+}, {
+    "question": "Select the wrong answer:",
+    "options": [
+        "A A positive final result (net income) increases equity.",
+        "B A negative final result (net loss) decreases equity.",
+        "C A negative final result increases debt.",
+        "D The final result has no influence on debt."
+    ],
+    "solution": ["C"]
+}, {
+    "question": "Select the correct answer:",
+    "options": [
+        "A Equity in 02 is the sum of equity of 01 and net income of 01.",
+        "B Equity in 02 is the difference of equity of 01 and net income of 01.",
+        "C Equity in 02 is the sum of equity of 00 and net income of 01.",
+        "D Equity in 01 solely consists of net income of 00."
+    ],
+    "solution": ["A"]
+}]
